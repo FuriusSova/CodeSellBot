@@ -1,0 +1,1 @@
+console.log(("dsfsd:dfsfdsfd:fsdfsdf".split(":").length - 1) + 1);

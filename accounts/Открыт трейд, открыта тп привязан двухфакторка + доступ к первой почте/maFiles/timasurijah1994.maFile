@@ -1,0 +1,22 @@
+{
+  "shared_secret": "t0YorOMQbM6Enskaa2mRCZRIvtw=",
+  "serial_number": "6247879175315139492",
+  "revocation_code": "R23195",
+  "uri": "otpauth://totp/Steam:timasurijah1994?secret=W5DCRLHDCBWM5BE6ZENGW2MRBGKERPW4&issuer=Steam",
+  "server_time": 1579283467,
+  "account_name": "timasurijah1994",
+  "token_gid": "37ddc48fb261943c",
+  "identity_secret": "maj9gGHhzTPWe4AC8sh2zLxxvOs=",
+  "secret_1": "rZv0DoHUY1RJZsMDu/UdOOHhJV0=",
+  "status": 1,
+  "device_id": "android:e9d9c852-4d79-c852-c852-c8524d79282d",
+  "fully_enrolled": false,
+  "Session": {
+    "SessionID": "a991d883c5c11b149dc2f762",
+    "SteamLogin": "76561199018047636%7C%7C5A61000D65A74277D191A8F5A08E68B8656458E6",
+    "SteamLoginSecure": "76561199018047636%7C%7CE5D06F909C58D726B6D14AB2EE40D173A25F541E",
+    "WebCookie": null,
+    "OAuthToken": "303e4e57c4004920a9f6022164341bc4",
+    "SteamID": 76561199018047636
+  }
+}

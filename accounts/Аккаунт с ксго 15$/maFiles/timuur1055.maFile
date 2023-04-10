@@ -1,0 +1,22 @@
+{
+  "shared_secret": "G6fdA7Yt/JWq8Z0exyYbQpKh12c=",
+  "serial_number": "15676609317476301213",
+  "revocation_code": "R25038",
+  "uri": "otpauth://totp/Steam:timuur1055?secret=DOT52A5WFX6JLKXRTUPMOJQ3IKJKDV3H&issuer=Steam",
+  "server_time": 1579271394,
+  "account_name": "timuur1055",
+  "token_gid": "312dc484e32b729a",
+  "identity_secret": "Ho5P/Oxz4YJxuQ+GD9STw24a8bA=",
+  "secret_1": "zwjhe3io0+YIBz77frGhto0TOzE=",
+  "status": 1,
+  "device_id": "android:b4c8609b-3ab6-609b-609b-609b3ab67cad",
+  "fully_enrolled": false,
+  "Session": {
+    "SessionID": "6d082be967c15fbe81050faf",
+    "SteamLogin": "76561199018449060%7C%7C665A28BA7C975018529A87DDCCEAADC245FBB520",
+    "SteamLoginSecure": "76561199018449060%7C%7C030DC0E4A76832E8765F16A5CC71A6CE5D2C617F",
+    "WebCookie": null,
+    "OAuthToken": "4b69b9f5990c277bf6b89a4e2bc012c5",
+    "SteamID": 76561199018449060
+  }
+}
