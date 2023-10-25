@@ -1,4 +1,4 @@
 /node_modules
+/accounts
+/codes
 /.env
-accounts
-codes
