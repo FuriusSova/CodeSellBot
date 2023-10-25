@@ -1,8 +1,8 @@
 const wallet = "TCZHTU7pMdSCjku4WppSMvucbsrPRqTS9a";
 const adminChatId = /* 392255827 */ 645845348;
 
-const supportText = "Иди нахуй"
-const reviewsText = "Ссылка на чат с отзывами. И иди нахуй"
+const supportText = "Some support text"
+const reviewsText = "Link to the chat with reviews"
 
 const productDescription = `
 Ваш продукт:    %s
